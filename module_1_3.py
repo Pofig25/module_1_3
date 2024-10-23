@@ -1,0 +1,9 @@
+#Module_1_3
+name=('Dmitrii')
+print(name)
+age=(53)
+print(age)
+age=(age+1)
+print(age)
+is_student=True
+print(is_student)
